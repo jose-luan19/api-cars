@@ -1,4 +1,4 @@
-package br.com.atlantico.apicars.controller;
+package br.com.atlantico.apicars.controller.DTO;
 
 import java.util.List;
 import java.util.stream.Collectors;

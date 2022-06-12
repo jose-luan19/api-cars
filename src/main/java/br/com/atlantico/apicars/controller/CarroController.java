@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import br.com.atlantico.apicars.controller.DTO.AutonomiaCarrosDTO;
 import br.com.atlantico.apicars.form.AbastecimentoForm;
 import br.com.atlantico.apicars.form.AtivarModoForm;
 import br.com.atlantico.apicars.model.Carro;
