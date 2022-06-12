@@ -10,6 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class ApiCarsApplication {
 
 	public static void main(String[] args) {
+		System.setProperty("server.port", "8080");
 		SpringApplication.run(ApiCarsApplication.class, args);
 	}
 
